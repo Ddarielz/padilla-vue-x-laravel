@@ -1,0 +1,1 @@
+# padilla-vue-x-laravel
